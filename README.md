@@ -4,9 +4,9 @@ Browser Fullscreen Lock is a script that allows you to lock fullscreen mode to y
 
 ## Description
 
-When watching videos, it's common to accidentally trigger fullscreen mode for the entire desktop, disrupting your workflow and causing inconvenience. Browser Fullscreen Lock solves this problem by providing a convenient way to lock fullscreen mode to your web browser, preventing accidental fullscreen switching.
+Have you ever wanted to use splitscreen mode, and full screen at the same time? Browser Fullscreen Lock solves this problem by providing a convenient way to lock fullscreen mode to your web browser, preventing the default fullscreen mode from occuring.
 
-With a simple keyboard shortcut, the script intelligently activates your browser window and triggers fullscreen mode within the browser itself. This allows you to stay focused on your video content without the fear of unintentionally taking over the entire screen.
+With a simple keyboard shortcut, the script activates your browser window and triggers fullscreen mode within the browser itself, instead of using the full viewport of the screen. This allows you to stay focused on your video content without the fear of unintentionally taking over the entire screen.
 
 Browser Fullscreen Lock is compatible with any web browser and leverages the power of the `xdotool` command-line tool to automate the process.
 
